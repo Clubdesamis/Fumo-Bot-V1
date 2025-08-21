@@ -1,0 +1,5 @@
+../Core/Src/usercode.c:33:6:InitHandlers	16	static
+../Core/Src/usercode.c:38:6:InitServos	120	static
+../Core/Src/usercode.c:109:6:InitEmoteplayer	32	static
+../Core/Src/usercode.c:128:6:UserLoop	16	static
+../Core/Src/usercode.c:209:6:Dispose	8	static

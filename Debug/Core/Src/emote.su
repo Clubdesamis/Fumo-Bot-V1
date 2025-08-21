@@ -1,0 +1,3 @@
+../Core/Src/emote.c:10:6:DestroyEmote	24	static
+../Core/Src/emote.c:20:11:LoadBounceEmote	496	static
+../Core/Src/emote.c:155:11:LoadWaveEmote	312	static

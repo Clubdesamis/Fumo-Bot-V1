@@ -1,0 +1,13 @@
+../Core/Src/emotePlayer.c:16:6:ResetEmoteTracks	16	static
+../Core/Src/emotePlayer.c:29:6:InitEmotePlayer	24	static
+../Core/Src/emotePlayer.c:46:18:getPlayerState	4	static
+../Core/Src/emotePlayer.c:51:6:DestroyEmotePlayer	8	static
+../Core/Src/emotePlayer.c:56:6:StartEmote	24	static
+../Core/Src/emotePlayer.c:74:6:HandleCommandHeader	16	static
+../Core/Src/emotePlayer.c:87:6:HandleCommandStart	16	static
+../Core/Src/emotePlayer.c:99:6:HandleCommandFinish	16	static
+../Core/Src/emotePlayer.c:104:6:HandleCommandSetAngleD0	16	static
+../Core/Src/emotePlayer.c:109:6:HandleCommandSetAngleD1	16	static
+../Core/Src/emotePlayer.c:137:6:HandleCommandWait	16	static
+../Core/Src/emotePlayer.c:147:6:HandleCommandSync	16	static
+../Core/Src/emotePlayer.c:152:6:UpdateEmotePlayer	24	static

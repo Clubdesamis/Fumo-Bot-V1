@@ -1,0 +1,5 @@
+../Core/Src/usercode.c:33:6:InitHandlers	1
+../Core/Src/usercode.c:38:6:InitServos	1
+../Core/Src/usercode.c:109:6:InitEmoteplayer	1
+../Core/Src/usercode.c:128:6:UserLoop	12
+../Core/Src/usercode.c:209:6:Dispose	1

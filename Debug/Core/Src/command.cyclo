@@ -1,0 +1,7 @@
+../Core/Src/command.c:10:9:InitHeaderCommand	1
+../Core/Src/command.c:19:9:InitStartCommand	1
+../Core/Src/command.c:26:9:InitFinishCommand	1
+../Core/Src/command.c:33:9:InitSetAngleD0Command	1
+../Core/Src/command.c:41:9:InitSetAngleD1Command	1
+../Core/Src/command.c:50:9:InitWaitCommand	1
+../Core/Src/command.c:59:9:InitSyncCommand	1
